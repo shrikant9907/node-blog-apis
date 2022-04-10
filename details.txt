@@ -1,0 +1,9 @@
+mongodb+srv://shrikant9907:<password>@cluster0.9wdic.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+
+
+username: blognodemongodb
+password: UcRaMkBzx5XlIL3y
+
+
+Mongo DB Compass: 
